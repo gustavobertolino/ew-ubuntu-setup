@@ -1,5 +1,6 @@
 ### Tools and programs to be set up automatically ###
 
+## git & file manager tools
 - range
 - git
 - tig
@@ -9,12 +10,14 @@
 - shutter
 - basic nerd fonts install
 
+## editors
 - neovim
 - spacevim
 
 - emacs
 - spacemacs
 
+## programming languages
 - asdf
 - ruby
 - nodejs
@@ -33,6 +36,7 @@
 - concurnas
 - scala
 
+## databases
 - postgres
 - mysql
 - mongodb
@@ -43,11 +47,13 @@
 - redis-cli
 - sysbench
 
+## cloud & dockering tools
 - aws-cli
 - terraform
 - docker
 - docker-compose
 
+## other tools
 - mozilla
 - insomnia/postman
 - vscode
