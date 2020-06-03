@@ -1,4 +1,4 @@
-### Tools and programs to be set up automatically ###
+### Tools and programs to be set up automatically by the script ###
 
 ## git & file manager tools
 - range
