@@ -36,15 +36,18 @@
 - concurnas
 - scala
 
-## databases
+## database systems
 - postgres
 - mysql
 - mongodb
 - redis
 
+## database client tools
 - pgcli
 - mycli
 - redis-cli
+
+## benchmark tools
 - sysbench
 
 ## cloud & dockering tools
