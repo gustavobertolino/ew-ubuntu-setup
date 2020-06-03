@@ -1,6 +1,6 @@
 ### Tools and programs to be set up ###
 
-## git & file manager tools
+## git & file system manager tools
 - range
 - git
 - tig
@@ -8,6 +8,7 @@
 - melt
 - curl/httpie
 - shutter
+- glances/htop
 - basic nerd fonts install
 
 ## editors
